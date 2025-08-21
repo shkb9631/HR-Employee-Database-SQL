@@ -37,3 +37,27 @@ It is designed to showcase:
 - **Data analysis using SQL**
 - **HR-related insights**
 - **Portfolio presentation for jobs/internships**
+
+--Q13. Find the names and salaries of the top 5 highest-paid employees.
+![Top 5 Salaries](images/Screenshot 2025-08-21 185445.png)
+
+--Q21. Find the name and salary of the highest-paid employee in each department.
+![Highest Paid](images/Screenshot 2025-08-21 185703.png)
+
+--Q22. Show the names and salaries of employees whose salary is greater than the average salary of their respective department.
+![Above Average](images/Screenshot 2025-08-21 185821.png)
+
+--Q23. List the top 3 departments with the highest average performance score.
+![Top 3 Departments](images/Screenshot 2025-08-21 185900.png)
+
+--Q25. Calculate the percentage of 'Present' days for each employee over the last 6 months.
+![Attendance](images/Screenshot 2025-08-21 185940.png)
+
+
+
+ 
+
+
+
+
+
